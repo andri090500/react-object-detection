@@ -1,0 +1,5 @@
+library yang dibutuhkan:
+pnpm install @tensorflow/tfjs atau npm install @tensorflow/tfjs
+npm install @tensorflow-models/coco-ssd atau npm install @tensorflow-models/coco-ssd --force
+npm install react-webcam
+--force : akan memaksa npm untuk mengambil sumber daya jarak jauh meskipun salinan lokal ada di disk
